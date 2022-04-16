@@ -1,7 +1,4 @@
 #include "func.h"
-#include <iostream>
-#include <math.h>
-using namespace std;
 
 double func_for_m(double a, double b, double n)
 {

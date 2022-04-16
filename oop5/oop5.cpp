@@ -1,6 +1,4 @@
-﻿#include <iostream>
-#include "func.h"
-using namespace std;
+﻿#include "func.h"
 
 int main() {
 	double n;
